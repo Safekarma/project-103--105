@@ -1,0 +1,27 @@
+<body
+{
+    color:aliceblue;
+    background-color:gold;
+}
+.heading
+{
+    width: 40%;
+    font-size: 22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.name_of_objects
+{
+    color:indianred;
+    font-weight: bold;
+    font-family: 'Tilt Prism', cursive;
+}
+#camera
+{
+    width:350px;
+    height:300px;
+    border:2px dashed black;
+}
+#result_object_name,#result_object_accuracy
+{
+color:maroon;
+}
