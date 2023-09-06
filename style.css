@@ -1,7 +1,7 @@
-<body
+body
 {
     color:aliceblue;
-    background-color:gold;
+    background:linear-gradient(#42275a 0%, #734b6d 90%);
 }
 .heading
 {
